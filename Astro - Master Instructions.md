@@ -2,7 +2,7 @@ Last updated: 2026-09-02
 
 ---
 
-## Gear
+## Gear List
 
 ### Primary Rig
 - OTA: Celestron NexStar 8SE
