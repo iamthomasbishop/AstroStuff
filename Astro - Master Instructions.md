@@ -48,7 +48,7 @@ Last updated: 2026-09-02
 - Location Name: Home
 - Location: Appleton, WI 54915
 - Rough coordinates: 44.227° N, 88.379° W
-- Note re: azimuth constraints: preference for ~90-210° is the sweet spot
+- Note re: azimuth constraints: east to south-southwest is the sweet spot
 
 #### Horizon 
 0 85
