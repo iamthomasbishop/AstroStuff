@@ -8,13 +8,14 @@ cssclasses:
 
 ## Planning Criteria
 
-- Primary focus: DSOs — nebulae (reflection/bright/planetary), and galaxies (globular clusters if nothing else is available)
-- Secondary focus: solar system (moon and planets)
-- Horizon: must be above horizon (see horizon data above), ideally for ≥ 2 hours during imaging window. Note: be somewhat conservative, as horizon values may be inexact.
 - Current targets: [Astro Targets.md](https://github.com/iamthomasbishop/AstroStuff/blob/main/Astro%20Targets.md) (include but don't necessarily limit to these)
+- Types of objects: 
+	- Primary focus: DSOs — in order of priority; nebulae, galaxies, globular clusters if nothing else is available (typically kit configuration A)
+	- Secondary focus: solar system (typically configuration B or C)
+- Horizon: objects ideally should be above horizon for ≥ 2 hours during imaging window. See 'Locations' for horizon data. Note: be somewhat conservative, as horizon values may be inexact.
 - Object size: minimum ~1.5 arcmin (roughly the size of the Ring Nebula), maximum ~40 arcmin or around the size of Triangulum
-- Ideally well away from the moon when it’s in play but not a deal-breaker if imaging in narrowband
-- Alt/az constraints: see 'Locations' section below
+- Moon proximity: Ideally well away from the moon when it’s in play but not a deal-breaker if imaging in narrowband
+- Alt/az constraints: see 'Locations' section below. Preference for E-SSW
 - Gear: see 'Gear' section
 
 ---
