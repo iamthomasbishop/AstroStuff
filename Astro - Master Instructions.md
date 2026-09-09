@@ -8,7 +8,7 @@ cssclasses:
 
 ## Planning Criteria
 
-- Targets to consider: see 'Targets' section below
+- Targets to consider: see [Astro Targets.md](https://github.com/iamthomasbishop/AstroStuff/blob/main/Astro%20Targets.md)
 - Primary focus: DSOs — nebulae (reflection/bright/planetary), and galaxies (globular clusters if nothing else is available)
 - Secondary focus: solar system (moon and planets)
 - Horizon: must be above horizon (see horizon data above), ideally for ≥ 2 hours during imaging window. Note: be somewhat conservative, as horizon values may be inexact.
