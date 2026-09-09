@@ -3,7 +3,6 @@ cssclasses:
   - wide
 ---
 [Repository](https://github.com/iamthomasbishop/AstroStuff/tree/main)
-Last updated: 2026-09-02
 
 ---
 
