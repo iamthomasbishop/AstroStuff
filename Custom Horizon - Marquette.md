@@ -1,4 +1,4 @@
-**Horizon (azimuth + altitude)**
+### Horizon (azimuth + altitude)
 0 32
 14 31
 22 30
