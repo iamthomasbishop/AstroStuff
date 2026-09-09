@@ -6,14 +6,14 @@ Last updated: 2026-09-02
 
 ### Primary Rig
 - OTA: Celestron NexStar 8SE
-- Mount: MLAstro SAL-33 
+- Mount: MLAstro SAL-33
 - Tripod: ZWO TC-40
-- Pier extension: MLAstro P-200 pier extension (arriving soon)
+- Pier extension: MLAstro P-200 pier extension
 - Control center: MeLE Quieter 4C
-- Cameras: ASI294MC-Pro (DSO), ASI678MC (planets)
+- Cameras: ASI294MC-Pro (DSO imaging), ASI678MC (planetary imaging)
 - Guide system: ZWO OAG, ZWO ASI120MM mini
 - Filter wheel: ZWO EFW mini
-- Filters: Svbony SV240, Svbony SV220 3nm, Optolong and Svbony UV/IR cut filters, Celestron UHC, Svbony CPL
+- Filters: Optolong and Svbony UV/IR cut, Svbony SV240 multi-narrowband, Svbony SV220 3nm dual-narrowband. I also have Celestron UHC and Svbony CPL filters but they're rarely used.
 - Rotator: BlueFireball Rotator (manual, M42)
 - Reducer (for DSO): Celestron 0.63x reducer
 - Barlow (for planetary): SV216 2x Barlow
@@ -44,7 +44,7 @@ Last updated: 2026-09-02
 
 ## Locations
 
-### Home
+### Primary Location: Home
 - Location Name: Home
 - Location: Appleton, WI 54915
 - Rough coordinates: 44.227° N, 88.379° W
@@ -71,7 +71,7 @@ Last updated: 2026-09-02
 285 80
 359 84
 
-### Marquette
+### Alternate Location: Marquette
 - Location Name: Marquette (aka "memaw's" or "mqt")
 - Location: Marquette, MI
 - Rough coordinates: 46.548° N, 87.388° W
