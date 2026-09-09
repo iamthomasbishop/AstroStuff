@@ -15,7 +15,7 @@ cssclasses:
 - Horizon: objects ideally should be above horizon for ≥ 2 hours during imaging window. See 'Locations' for horizon data. Note: be somewhat conservative, as horizon values may be inexact.
 - Object size: minimum ~1.5 arcmin (roughly the size of the Ring Nebula), maximum ~40 arcmin or around the size of Triangulum
 - Moon proximity: Ideally well away from the moon when it’s in play but not a deal-breaker if imaging in narrowband
-- Alt/az constraints: see 'Locations' section below. Preference for E-SSW
+- Alt/az constraints: see 'Locations'. Preference for E-SSW at 'Home' location.
 - Gear: see 'Gear' section
 
 ---
