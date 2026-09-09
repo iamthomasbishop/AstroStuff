@@ -25,7 +25,7 @@ cssclasses:
 I currently have 3 kit configurations: a primary for imaging DSOs (config A), a primary for visual observing (config C), and a secondary for planetary imaging (config B).
 
 | **Component**      | **A - Primary Imaging (DSO)**                                                       | **B - Secondary Imaging (planetary)**                       | **C - Primary Visual**                                                      |
-| ------------------ | ----------------------------------------------------------------------------------- | ----------------------------------------------------------- | --------------------------------------------------------------------------- |
+| ------------------ | :---------------------------------------------------------------------------------- | :---------------------------------------------------------- | --------------------------------------------------------------------------- |
 | OTA                | Celestron NexStar 8SE                                                               | Celestron NexStar 8SE                                       | Celestron 90 SLT                                                            |
 | Mount              | MLAstro SAL-33                                                                      | MLAstro SAL-33                                              | Stock 8SE single fork arm on Celestron 93665 EQ wedge                       |
 | Pier extension     | MLAstro P-200                                                                       | MLAstro P-200                                               | --                                                                          |
