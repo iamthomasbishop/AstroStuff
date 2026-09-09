@@ -1,6 +1,3 @@
-**Approx. Coordinates**
-44.227° N, 88.379° W
-
 **Horizon (azimuth + altitude)**
 0 85
 30 62
