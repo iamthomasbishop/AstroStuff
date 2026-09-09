@@ -1,113 +1,10 @@
+---
+cssclasses:
+  - wide
+---
 Last updated: 2026-09-02
 
 ---
-
-## Gear List
-
-### Primary Rig
-- OTA: Celestron NexStar 8SE
-- Mount: MLAstro SAL-33
-- Tripod: ZWO TC-40
-- Pier extension: MLAstro P-200 pier extension
-- Control center: MeLE Quieter 4C
-- Cameras: ASI294MC-Pro (DSO imaging), ASI678MC (planetary imaging)
-- Guide system: ZWO OAG, ZWO ASI120MM mini
-- Filter wheel: ZWO EFW mini
-- Filters: Optolong and Svbony UV/IR cut, Svbony SV240 multi-narrowband, Svbony SV220 3nm dual-narrowband. I also have Celestron UHC and Svbony CPL filters but they're rarely used.
-- Rotator: BlueFireball Rotator (manual, M42)
-- Reducer (for DSO): Celestron 0.63x reducer
-- Barlow (for planetary): SV216 2x Barlow
-- Dew control: Generic dew shield (soft material), ZWO dew heater ring on ASI294MC-Pro, Svbony dew heater ring on ASI678MC, Celestron dew heater ring on secondary mirror
-
-### Secondary Rig
-- Note: I'm thinking about turning this into my visual observing rig
-- OTA: Celestron 90 SLT
-- Mount: NexStar single fork arm, Celestron 93665 wedge, stock 8SE tripod (replaced by SAL-33 in August 2026)
-- Finder: stock 8SE red-dot
-- Control center: StellaVita
-
-### Other Gear
-- Eyepieces: 32mm, 25mm, 20mm, 15mm, 6mm
-- Diagonal: 1.25 Celestron inch Star Diagonal
-- Calibration Frames: LED light panel for flats
-- Stock visual back
-- Assortment of spacers, adapters
-
-### Power
-- Svbony SV241 Pro hub, 12V 10A and 12V 8A power adapters, 12V 5A battery pack
-
-### Software
-- NINA (DSO imaging)
-- SharpCap (planetary/lunar imaging)
-- PHD2 (guiding, DSO imaging with NINA)
-- Processing typically done with Siril, Autostakkert, Pixelmator Pro, others
-
-## Locations
-
-### Primary Location: Home
-- Location Name: Home
-- Location: Appleton, WI 54915
-- Rough coordinates: 44.227° N, 88.379° W
-- Note re: azimuth constraints: east to south-southwest is the sweet spot
-
-#### Horizon 
-0 85
-30 62
-47 46
-82 48
-118 37
-144 39
-164 29
-179 31
-180 25
-182 38
-196 44
-214 43
-234 44
-252 29
-265 20
-274 22
-276 48
-285 80
-359 84
-
-### Alternate Location: Marquette
-- Location Name: Marquette (aka "memaw's" or "mqt")
-- Location: Marquette, MI
-- Rough coordinates: 46.548° N, 87.388° W
-
-#### Horizon 
-0 32
-14 31
-22 30
-64 22
-77 29
-83 15
-88 17
-92 26
-101 26
-110 13
-116 14
-124 18
-132 28
-140 34
-148 41
-159 50
-177 56
-180 57
-185 57
-195 42
-223 35
-241 32
-245 24
-243 20
-251 21
-284 22
-303 23
-307 28
-331 29
-356 32
-360 32
 
 ## Planning Criteria
 
@@ -119,3 +16,53 @@ Last updated: 2026-09-02
 - Ideally well away from the moon when it’s in play but not a deal-breaker if imaging in narrowband
 - Alt and az constraints: see (location-specific) horizon data above
 - Gear: see "Gear" section above
+
+---
+
+## Gear
+
+### Current Kit Configurations
+I currently have 3 kit configurations: a primary for imaging DSOs (config A), a primary for visual observing (config C), and a secondary for planetary imaging (config B).
+
+| **Component**      | **A - Primary Imaging (DSO)**                                                       | **B - Secondary Imaging (planetary)**                       | **C - Primary Visual**                                                      |
+| ------------------ | ----------------------------------------------------------------------------------- | ----------------------------------------------------------- | --------------------------------------------------------------------------- |
+| OTA                | Celestron NexStar 8SE                                                               | Celestron NexStar 8SE                                       | Celestron 90 SLT                                                            |
+| Mount              | MLAstro SAL-33                                                                      | MLAstro SAL-33                                              | Stock 8SE single fork arm on Celestron 93665 EQ wedge                       |
+| Pier extension     | MLAstro P-200                                                                       | MLAstro P-200                                               | --                                                                          |
+| Tripod             | ZWO TC-40                                                                           | Stock NexStar 8SE tripod                                    | Stock 8SE tripod                                                            |
+| Guide system       | ZWO OAG (small)                                                                     | No guiding                                                  | No guiding                                                                  |
+| Guide camera       | ZWO ASI120MM Mini                                                                   | --                                                          | --                                                                          |
+| Filter wheel       | ZWO EFW mini                                                                        | --                                                          | --                                                                          |
+| Rotator            | BlueFireball manual rotator (M42)                                                   | --                                                          | --                                                                          |
+| Magnification      | Celestron 0.63x reducer                                                             | Sometimes Svbony SV216 2x Barlow or Celestron 0.63x reducer | Sometimes Svbony SV216 2x Barlow or Celestron 0.63x reducer (default: none) |
+| Finder             | Stock 8SE red-dot                                                                   | Stock 8SE red-dot                                           | Stock 90 SLT red-dot                                                        |
+| Eyepieces          | --                                                                                  | --                                                          | 32mm, 25mm, 20mm, 15mm, 6mm (mostly Svbony)                                 |
+| Diagonal           | --                                                                                  | --                                                          | Celestron 1.25" star diagonal                                               |
+| Visual back        | --                                                                                  | --                                                          | Stock 8SE/90 SLT visual back                                                |
+| Dew shield         | Astromania flexible dew shield                                                      | Astromania flexible dew shield                              | Astromania flexible dew shield                                              |
+| OTA dew heater     | Celestron dew heater ring (secondary mirror)                                        | Celestron dew heater ring (secondary mirror)                | --                                                                          |
+| Camera dew control | ZWO anti-dew heater (for ASI294MC-Pro camera)                                       | SVBONY SV172 dew heater strap (for ASI678MC camera)<br>     | --                                                                          |
+| Filters            | Optolong UV/IR cut, Svbony SV240 multi-narrowband, Svbony SV220 3nm dual-narrowband | Svbony UV/IR cut                                            | Celestron UHC, Svbony CPL                                                   |
+| Controller         | Mele Quieter 4c                                                                     | Mele Quieter 4c                                             | Touptek StellaVita                                                          |
+| Software           | NINA, PHD2 (guiding), ASCOM device hub                                              | SharpCap                                                    | Touptek StellaVita app                                                      |
+| Power control      | Svbony SV241 Pro hub                                                                | Svbony SV241 Pro hub                                        | Svbony SV241 (non-pro) hub                                                  |
+| Power sources      | Fixed outlet, Jackery power generator as backup                                     | Fixed outlet, Jackery power generator as backup             | Fixed outlet, Jackery power generator as backup                             |
+| Power adapters     | 12V 10A and 12V 8A power adapters                                                   | 12V 10A and 12V 8A power adapters                           | 12V 5A batter pack/power adapter                                            |
+| Other gear         | Assortment of back-spacing accessories, adapters, other attachments                 |                                                             |                                                                             |
+| Calibration frames | LED light panel for flats                                                           | LED light panel for flats                                   | --                                                                          |
+
+---
+
+## Locations
+
+
+|                              | Primary Location - Home                                                                                                | Alt. 1 - Marquette                                                                                                               |
+| ---------------------------- | ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| Location                     | Appleton, WI                                                                                                           | Marquette, MI                                                                                                                    |
+| Approx. coordinates          | 44.227° N, 88.379° W                                                                                                   |                                                                                                                                  |
+| Horizon (azimuth + altitude) | See [Custom Horizon - Home.md](https://github.com/iamthomasbishop/AstroStuff/blob/main/Custom%20Horizon%20-%20Home.md) | See [Custom Horizon - Marquette.md](https://github.com/iamthomasbishop/AstroStuff/blob/main/Custom%20Horizon%20-%20Marquette.md) |
+
+---
+
+## On processing
+Acquisition happens on the associated controller, either via Dropbox or the internal file storage system (i.e. StellaVita) and later transferred to an external hard-drive.  Processing is typically done with Siril, Autostakkert, Pixelmator Pro, others.
