@@ -1,4 +1,3 @@
-
 **Approx. Coordinates:**
 46.548° N, 87.388° W
 
