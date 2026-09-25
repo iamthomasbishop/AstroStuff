@@ -7,15 +7,19 @@ cssclasses:
 ## Planning Criteria
 
 - Current targets: [Astro Targets.md](https://github.com/iamthomasbishop/AstroStuff/blob/main/Astro%20Targets.md) (include but don't necessarily limit to these)
-- Types of objects (note: prioritize preferences noted in initiating prompt)
-	- Primary focus: DSOs — in order of priority; nebulae, galaxies, globular clusters if nothing else is available (typically kit configuration A)
-	- Secondary focus: solar system (typically configuration B or C)
-- Horizon: objects ideally should be above horizon for ≥ 2 hours during imaging window. See 'Locations' for horizon data. Note: be somewhat conservative, as horizon values may be inexact.
-- Object size: minimum ~1.5 arcmin (roughly the size of the Ring Nebula), maximum ~40 arcmin or around the size of Triangulum
-- Moon proximity: Ideally well away from the moon when it’s in play but not a deal-breaker if imaging in narrowband
-- Alt/az constraints: see 'Locations'. Preference for E-SSW at 'Home' location.
 - Gear: see 'Gear' section
-
+- Types of objects
+	- Primary (Config. A): DSOs (in order of priority) → nebulae, galaxies, globular clusters if not much else is available
+	- Planetary (Config. B for imaging, Config. C for visual): solar system
+	- Note: prioritize preferences noted in initiating prompt
+- Horizon and alt-az constraints:
+	- Important: Estimate somewhat conservatively because horizon values may be inexact
+	- Objects ideally should be above horizon for ≥ 2 hours during imaging window
+	- See 'Locations' for horizon data
+	- Preference for E-SSW window when location is 'Home'
+- Object size: minimum 1 arcmin (roughly the size of the Ring Nebula), maximum ~40 arcmin or around the size of Triangulum
+- Moon proximity: avoid the moon when it’s in play unless you have any strong contenders for narrowband imaging
+- Avoid the need for rotation, especially after ~11pm
 ---
 
 ## Gear
