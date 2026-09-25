@@ -33,7 +33,8 @@ I currently have 3 kit configurations: a primary for imaging DSOs (config A), a 
 | Mount              | MLAstro SAL-33                                                                      | MLAstro SAL-33                                              | Stock 8SE single fork arm on Celestron 93665 EQ wedge                       |
 | Pier extension     | MLAstro P-200                                                                       | MLAstro P-200                                               | --                                                                          |
 | Tripod             | ZWO TC-40                                                                           | Stock NexStar 8SE tripod                                    | Stock 8SE tripod                                                            |
-| Guide system       | ZWO OAG (small)                                                                     | No guiding                                                  | No guiding                                                                  |
+| Main camera        | ZWO ASI294MC Pro                                                                    | ZWO ASI678MC                                                | --                                                                          |
+| Guide system       | ZWO OAG Small                                                                       | No guiding                                                  | No guiding                                                                  |
 | Guide camera       | ZWO ASI120MM Mini                                                                   | --                                                          | --                                                                          |
 | Filter wheel       | ZWO EFW mini                                                                        | --                                                          | --                                                                          |
 | Rotator            | BlueFireball manual rotator (M42)                                                   | --                                                          | --                                                                          |
@@ -53,6 +54,12 @@ I currently have 3 kit configurations: a primary for imaging DSOs (config A), a 
 | Power adapters     | 12V 10A and 12V 8A power adapters                                                   | 12V 10A and 12V 8A power adapters                           | 12V 5A batter pack/power adapter                                            |
 | Other gear         | Assortment of back-spacing accessories, adapters, other attachments                 |                                                             |                                                                             |
 | Calibration frames | LED light panel for flats                                                           | LED light panel for flats                                   | --                                                                          |
+
+### A note on focal length
+- My C8 has a "native" focal length of 2032 mm (focal ratio of f/10)
+- With my 0.63x reducer, the native focal length is ~1280 mm (focal ratio of f/6.3)
+- My "effective" focal length (for imaging) is ~1291 mm (as of 2026-09-22) (focal ratio of f/6.35)
+
 
 ---
 
