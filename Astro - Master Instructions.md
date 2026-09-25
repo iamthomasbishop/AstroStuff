@@ -16,7 +16,7 @@ cssclasses:
 	- Important: Estimate somewhat conservatively because horizon values may be inexact
 	- Objects ideally should be above horizon for ≥ 2 hours during imaging window
 	- See 'Locations' for horizon data
-	- Preference for E-SSW window when location is 'Home'
+	- Preference for E-SSW window when location is 'Home', largely avoid the north
 - Object size: minimum 1 arcmin (roughly the size of the Ring Nebula), maximum ~40 arcmin or around the size of Triangulum
 - Moon proximity: avoid the moon when it’s in play unless you have any strong contenders for narrowband imaging
 - Avoid the need for rotation, especially after ~11pm
