@@ -1,15 +1,14 @@
 ---
 cssclasses:
-  - wide
----
-[Repository](https://github.com/iamthomasbishop/AstroStuff/tree/main)
-
+  - style--font-size--xsmall
+  - full-width
 ---
 
 ## Planning Criteria
 
 - Current targets: [Astro Targets.md](https://github.com/iamthomasbishop/AstroStuff/blob/main/Astro%20Targets.md) (include but don't necessarily limit to these)
 - Types of objects: 
+	- Note: prioritize preferences noted in initiating prompt
 	- Primary focus: DSOs — in order of priority; nebulae, galaxies, globular clusters if nothing else is available (typically kit configuration A)
 	- Secondary focus: solar system (typically configuration B or C)
 - Horizon: objects ideally should be above horizon for ≥ 2 hours during imaging window. See 'Locations' for horizon data. Note: be somewhat conservative, as horizon values may be inexact.
@@ -57,10 +56,10 @@ I currently have 3 kit configurations: a primary for imaging DSOs (config A), a 
 ## Locations
 
 
-|                              | Primary - Home                                                                                                         | Alt. 1 - Marquette                                                                                                               |
+|                              | Primary - Home                                                                                                         | Alternate 1 (Marquette)                                                                                                          |
 | :--------------------------- | :--------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------- |
 | Location                     | Appleton, WI                                                                                                           | Marquette, MI                                                                                                                    |
-| Approx. coordinates          | 44.227° N, 88.379° W                                                                                                   | 46.548° N, 87.388° W                                                                                                             |
+| Coordinates                  | 44.22699° N, 88.38495° W                                                                                               | 46.54722° N, 87.38488° W                                                                                                         |
 | Horizon (azimuth + altitude) | See [Custom Horizon - Home.md](https://github.com/iamthomasbishop/AstroStuff/blob/main/Custom%20Horizon%20-%20Home.md) | See [Custom Horizon - Marquette.md](https://github.com/iamthomasbishop/AstroStuff/blob/main/Custom%20Horizon%20-%20Marquette.md) |
 
 ---
