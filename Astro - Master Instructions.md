@@ -7,8 +7,7 @@ cssclasses:
 ## Planning Criteria
 
 - Current targets: [Astro Targets.md](https://github.com/iamthomasbishop/AstroStuff/blob/main/Astro%20Targets.md) (include but don't necessarily limit to these)
-- Types of objects: 
-	- Note: prioritize preferences noted in initiating prompt
+- Types of objects (note: prioritize preferences noted in initiating prompt)
 	- Primary focus: DSOs — in order of priority; nebulae, galaxies, globular clusters if nothing else is available (typically kit configuration A)
 	- Secondary focus: solar system (typically configuration B or C)
 - Horizon: objects ideally should be above horizon for ≥ 2 hours during imaging window. See 'Locations' for horizon data. Note: be somewhat conservative, as horizon values may be inexact.
