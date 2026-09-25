@@ -1,7 +1,7 @@
 ### Horizon (azimuth + altitude)
 0 89
 30 70
-47 46
+47 50
 82 48
 118 37
 144 39
