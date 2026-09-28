@@ -7,10 +7,10 @@ A quick list of previous, current, and future targets.
 ## Current Targets
 I'm in the process of capturing data for these targets.
 
-| Object                                                                                                                        | Data captured so far (broadband) | Data captured so far (narrowband) | Additional data needed         | Notes                                                                                                                  |
-| :---------------------------------------------------------------------------------------------------------------------------- | :------------------------------- | :-------------------------------- | :----------------------------- | :--------------------------------------------------------------------------------------------------------------------- |
-| [Triangulum Galaxy](https://telescopius.com/deep-sky-objects/m-33/triangulum-galaxy/spiral-galaxy/galaxy/x-ray-source) (M 33) | 7.8h                             | 5h                                | ~3h broadband + ~3h narrowband | Around 1/2 the data was taken under moonlit skies, would like additional moonless data (both broadband and narrowband) |
-| [NGC 6823](https://telescopius.com/deep-sky-objects/ngc-6823/open-cluster/star-cluster)                                       | --                               | 2.4h                              | 6h+                            |                                                                                                                        |
+| Object                                                                                                                       | Data captured so far (broadband) | Data captured so far (narrowband) | Additional data needed         | Notes                                                                                                                  |
+| :--------------------------------------------------------------------------------------------------------------------------- | :------------------------------- | :-------------------------------- | :----------------------------- | :--------------------------------------------------------------------------------------------------------------------- |
+| Priority 1: [Sh2-86](https://telescopius.com/pictures/view/287204/deep_sky/ngc-6820/sh2-86-rgbhao3s2/by-insight-observatory) | --                               | 2.4h                              | 6h+                            |                                                                                                                        |
+| [M 33](https://telescopius.com/deep-sky-objects/m-33/triangulum-galaxy/spiral-galaxy/galaxy/x-ray-source) (Triangulum)       | 7.8h                             | 5h                                | ~3h broadband + ~3h narrowband | Around 1/2 the data was taken under moonlit skies, would like additional moonless data (both broadband and narrowband) |
 
 ## Imaged
 
@@ -32,7 +32,6 @@ Some targets that I've imaged but would like to re-shoot these in the future:
 - [M 81](https://simbad.u-strasbg.fr/simbad/sim-id?Ident=M%2081) and [M 82](https://simbad.u-strasbg.fr/simbad/sim-id?Ident=M%2082) (first galaxies imaged, would like to re-shoot and compare)
 
 ### Others
-- 
 
 ## Future
 Some targets that I haven't shot yet and would like to:
