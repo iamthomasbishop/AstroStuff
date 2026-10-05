@@ -39,6 +39,7 @@ I currently have 3 kit configurations: a primary for imaging DSOs (config A), a 
 | Guide camera       | ZWO ASI120MM Mini                                                                   | --                                                          | --                                                                          |
 | Filter wheel       | ZWO EFW mini                                                                        | --                                                          | --                                                                          |
 | Rotator            | BlueFireball manual rotator (M42)                                                   | --                                                          | --                                                                          |
+| Flat panel         | Gemini Astro 225 mm automatic flat panel                                            | Gemini Astro 225 mm automatic flat panel                    | --                                                                          |
 | Magnification      | Celestron 0.63x reducer                                                             | Sometimes Svbony SV216 2x Barlow or Celestron 0.63x reducer | Sometimes Svbony SV216 2x Barlow or Celestron 0.63x reducer (default: none) |
 | Finder             | Stock 8SE red-dot                                                                   | Stock 8SE red-dot                                           | Stock 90 SLT red-dot                                                        |
 | Eyepieces          | --                                                                                  | --                                                          | 32mm, 25mm, 20mm, 15mm, 6mm (mostly Svbony)                                 |
@@ -54,7 +55,6 @@ I currently have 3 kit configurations: a primary for imaging DSOs (config A), a 
 | Power sources      | Fixed outlet, Jackery power generator as backup                                     | Fixed outlet, Jackery power generator as backup             | Fixed outlet, Jackery power generator as backup                             |
 | Power adapters     | 12V 10A and 12V 8A power adapters                                                   | 12V 10A and 12V 8A power adapters                           | 12V 5A batter pack/power adapter                                            |
 | Other gear         | Assortment of back-spacing accessories, adapters, other attachments                 |                                                             |                                                                             |
-| Calibration frames | LED light panel for flats                                                           | LED light panel for flats                                   | --                                                                          |
 
 ### A note on focal length
 - My C8 has a "native" focal length of 2032 mm (focal ratio of f/10)
