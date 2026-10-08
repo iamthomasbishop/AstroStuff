@@ -5,12 +5,23 @@ cssclasses:
 A quick list of previous, current, and future targets.
 
 ## Current Targets
-I'm in the process of capturing data for these targets.
+I'm in the process of capturing data for these targets. Updated 2026-10-08.
 
-| Target                                                                                                                       | Data captured so far (broadband) | Data captured so far (narrowband) | Total data needed                    | Notes                                                                                                                  |
-| :--------------------------------------------------------------------------------------------------------------------------- | :------------------------------- | :-------------------------------- | :----------------------------------- | :--------------------------------------------------------------------------------------------------------------------- |
-| Priority 1: [Sh2-86](https://telescopius.com/pictures/view/287204/deep_sky/ngc-6820/sh2-86-rgbhao3s2/by-insight-observatory) | 26 min                           | 11.4 hrs                          | ~1 hr broadband, ~14 hrs narrowband  |                                                                                                                        |
-| [M 33](https://telescopius.com/deep-sky-objects/m-33/triangulum-galaxy/spiral-galaxy/galaxy/x-ray-source) (Triangulum)       | 7.8 hrs                          | 7.5 hrs                           | ~12 hrs broadband, ~8 hrs narrowband | Around 1/2 the data was taken under moonlit skies, would like additional moonless data (both broadband and narrowband) |
+### Sh2-86 (priority 1)
+
+| Filter           | Target  | Captured (usable) | Delta   | Notes                            |
+| ---------------- | ------- | ----------------- | ------- | -------------------------------- |
+| Dual-Narrowband  | 900 min | 750 min           | 150 min |                                  |
+| Luminosity       | 120 min | 50 min            | 70 min  | Add'l data but stars are bloated |
+| Multi-Narrowband | --      | --                | --      |                                  |
+
+### M 33
+
+| Filter           | Target           | Captured (usable) | Delta   | Notes |
+| ---------------- | ---------------- | ----------------- | ------- | ----- |
+| Dual-Narrowband  | 360 min (6 hrs)  | 180 min           | 180 min |       |
+| Luminosity       | 720 min (12 hrs) | 462 min           | 258 min |       |
+| Multi-Narrowband | --               | --                | --      |       |
 
 ## Recently Imaged
 Exclude from imaging plan unless requested.
