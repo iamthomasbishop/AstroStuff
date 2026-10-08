@@ -20,7 +20,7 @@ I'm in the process of capturing data for these targets.
 | Multi-Narrowband | --                 | --                | --      |       |
 
 ### [Sh2-101](https://telescopius.com/pictures/view/233902/deep_sky/min-1-95/sh2-101-tulip-nebula/by-vworlds)
-Note: I thought I was done  with this but I think I need more data.
+*Note: I thought I was done with this target but I'm looping back to gather more data on this one.*
 
 | Filter                             | Integration Target | Captured (usable) | Delta   | Notes |
 | ---------------------------------- | ------------------ | ----------------- | ------- | ----- |
