@@ -22,11 +22,11 @@ I'm in the process of capturing data for these targets.
 ### [Sh2-101](https://telescopius.com/pictures/view/233902/deep_sky/min-1-95/sh2-101-tulip-nebula/by-vworlds)
 Note: I thought I was done  with this but I think I need more data.
 
-| Filter                             | Integration Target | Captured (usable) | Delta | Notes |
-| ---------------------------------- | ------------------ | ----------------- | ----- | ----- |
-| Svbony SV220 3nm (dual-narrowband) | Not sure           | 560 min (9.3 hrs) | --    |       |
-| Optolong UV/IR-cut                 | Not sure           | 0                 | --    |       |
-| Svbony SV240 (multi-narrowband)    | --                 | --                |       |       |
+| Filter                             | Integration Target | Captured (usable) | Delta   | Notes |
+| ---------------------------------- | ------------------ | ----------------- | ------- | ----- |
+| Svbony SV220 3nm (dual-narrowband) | 1080 min (18 hrs)  | 560 min (9.3 hrs) | 520 min |       |
+| Optolong UV/IR-cut                 | 120 min            | None              | 120 min |       |
+| Svbony SV240 (multi-narrowband)    | --                 | --                |         |       |
 
 ## Recently Imaged
 Exclude from imaging plan unless requested.
