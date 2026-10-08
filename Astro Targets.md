@@ -5,23 +5,23 @@ cssclasses:
 A quick list of previous, current, and future targets.
 
 ## Current Targets
-I'm in the process of capturing data for these targets. Updated 2026-10-08.
+I'm in the process of capturing data for these targets.
 
-### Sh2-86 (priority 1)
+### [Sh2-86](https://telescopius.com/pictures/view/287204/deep_sky/ngc-6820/sh2-86-rgbhao3s2/by-insight-observatory) (priority 1)
 
-| Filter           | Target  | Captured (usable) | Delta   | Notes                            |
-| ---------------- | ------- | ----------------- | ------- | -------------------------------- |
-| Dual-Narrowband  | 900 min | 750 min           | 150 min |                                  |
-| Luminosity       | 120 min | 50 min            | 70 min  | Add'l data but stars are bloated |
-| Multi-Narrowband | --      | --                | --      |                                  |
+| Filter           | Target integration | Captured (usable) | Delta   | Notes                            |
+| ---------------- | ------------------ | ----------------- | ------- | -------------------------------- |
+| Dual-Narrowband  | 900 min            | 750 min           | 150 min |                                  |
+| Luminosity       | 120 min            | 50 min            | 70 min  | Add'l data but stars are bloated |
+| Multi-Narrowband | --                 | --                | --      |                                  |
 
-### M 33
+### [M 33](https://telescopius.com/deep-sky-objects/m-33/triangulum-galaxy/spiral-galaxy/galaxy/x-ray-source)
 
-| Filter           | Target           | Captured (usable) | Delta   | Notes |
-| ---------------- | ---------------- | ----------------- | ------- | ----- |
-| Dual-Narrowband  | 360 min (6 hrs)  | 180 min           | 180 min |       |
-| Luminosity       | 720 min (12 hrs) | 462 min           | 258 min |       |
-| Multi-Narrowband | --               | --                | --      |       |
+| Filter           | Target integration | Captured (usable) | Delta   | Notes |
+| ---------------- | ------------------ | ----------------- | ------- | ----- |
+| Dual-Narrowband  | 6 hrs (360 min)    | 180 min           | 180 min |       |
+| Luminosity       | 12 hrs (720 min)   | 462 min           | 258 min |       |
+| Multi-Narrowband | --                 | --                | --      |       |
 
 ## Recently Imaged
 Exclude from imaging plan unless requested.
@@ -31,7 +31,7 @@ Exclude from imaging plan unless requested.
 - [Crescent Nebula](https://simbad.u-strasbg.fr/simbad/sim-id?Ident=Crescent%20Nebula) (NGC 6888)
 - [Dumbbell Nebula](https://simbad.u-strasbg.fr/simbad/sim-id?Ident=M%2027) (M 27) 
 
-## Re-shoot
+## Seasonal
 Some targets that I've imaged but would like to re-shoot these in the future:
 
 ###### Spring
