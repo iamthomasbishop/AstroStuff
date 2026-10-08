@@ -3,30 +3,36 @@ A quick list of previous, current, and future targets.
 ## Current Targets
 I'm in the process of capturing data for these targets.
 
-### [Sh2-86](https://telescopius.com/pictures/view/287204/deep_sky/ngc-6820/sh2-86-rgbhao3s2/by-insight-observatory) (priority 1)
+### Priority 1: [Sh2-101](https://telescopius.com/pictures/view/233902/deep_sky/min-1-95/sh2-101-tulip-nebula/by-vworlds)
 
-| Filter                             | Integration Target | Captured (usable) | Delta   | Notes                            |
-| ---------------------------------- | ------------------ | ----------------- | ------- | -------------------------------- |
-| Svbony SV220 3nm (dual-narrowband) | 900 min            | 750 min           | 150 min |                                  |
-| Optolong UV/IR-cut                 | 120 min            | 50 min            | 70 min  | Add'l data but stars are bloated |
-| Svbony SV240 (multi-narrowband)    | --                 | --                | --      |                                  |
+###### Why now?
+I thought I was done with this target but I'm looping back to gather more data to bring out faint details and color, before it's too late and below my horizon early. It's prioritized before Sh2-101 because it is lower and transitions out sooner, needs a fair amount of data.
 
-### [M 33](https://telescopius.com/deep-sky-objects/m-33/triangulum-galaxy/spiral-galaxy/galaxy/x-ray-source)
+| Filter                             | Integration Target | Captured (usable) | Remaining | Notes |
+| ---------------------------------- | ------------------ | ----------------- | --------- | ----- |
+| Svbony SV220 3nm (dual-narrowband) | 1080 min (18 hrs)  | 560 min (9.3 hrs) | 520 min   |       |
+| Optolong UV/IR-cut                 | 120 min            | None              | 120 min   |       |
+| Svbony SV240 (multi-narrowband)    | --                 | --                |           |       |
 
-| Filter           | Integration Target | Captured (usable) | Delta   | Notes |
-| ---------------- | ------------------ | ----------------- | ------- | ----- |
-| Dual-Narrowband  | 6 hrs (360 min)    | 180 min           | 180 min |       |
-| Luminosity       | 12 hrs (720 min)   | 462 min           | 258 min |       |
-| Multi-Narrowband | --                 | --                | --      |       |
 
-### [Sh2-101](https://telescopius.com/pictures/view/233902/deep_sky/min-1-95/sh2-101-tulip-nebula/by-vworlds)
-*Note: I thought I was done with this target but I'm looping back to gather more data to bring out faint details and color, before it's too late and below my horizon early.*
+### Priority 2: [Sh2-86](https://telescopius.com/pictures/view/287204/deep_sky/ngc-6820/sh2-86-rgbhao3s2/by-insight-observatory)
+I've been shooting this recently, almost have enough data
 
-| Filter                             | Integration Target | Captured (usable) | Delta   | Notes |
-| ---------------------------------- | ------------------ | ----------------- | ------- | ----- |
-| Svbony SV220 3nm (dual-narrowband) | 1080 min (18 hrs)  | 560 min (9.3 hrs) | 520 min |       |
-| Optolong UV/IR-cut                 | 120 min            | None              | 120 min |       |
-| Svbony SV240 (multi-narrowband)    | --                 | --                |         |       |
+| Filter                             | Integration Target | Captured (usable) | Remaining | Notes                                 |
+| ---------------------------------- | ------------------ | ----------------- | --------- | ------------------------------------- |
+| Svbony SV220 3nm (dual-narrowband) | 15 hrs (900 min)   | 750 min           | 150 min   |                                       |
+| Optolong UV/IR-cut                 | 2 hrs (120 min)    | 50 min            | 70 min    | Have add'l data but stars are bloated |
+| Svbony SV240 (multi-narrowband)    | --                 | --                | --        |                                       |
+
+### Priority 3: [M 33](https://telescopius.com/deep-sky-objects/m-33/triangulum-galaxy/spiral-galaxy/galaxy/x-ray-source)
+
+| Filter           | Integration Target | Captured (usable) | Remaining | Notes |
+| ---------------- | ------------------ | ----------------- | --------- | ----- |
+| Dual-Narrowband  | 6 hrs (360 min)    | 180 min           | 180 min   |       |
+| Luminosity       | 12 hrs (720 min)   | 462 min           | 258 min   |       |
+| Multi-Narrowband | --                 | --                | --        |       |
+
+See also: [October 2026 astronomy imaging plan](https://claude.ai/artifact/VuGXDF3mkEor9b3xPGim6a) (Claude artifact)
 
 ## Recently Imaged
 Exclude from imaging plan unless requested.
