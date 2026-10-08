@@ -1,7 +1,3 @@
----
-cssclasses:
-  - wide
----
 A quick list of previous, current, and future targets.
 
 ## Current Targets
