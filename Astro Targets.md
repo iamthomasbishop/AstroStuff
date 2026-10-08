@@ -27,7 +27,7 @@ Exclude from imaging plan unless requested.
 - [Crescent Nebula](https://simbad.u-strasbg.fr/simbad/sim-id?Ident=Crescent%20Nebula) (NGC 6888)
 - [Dumbbell Nebula](https://simbad.u-strasbg.fr/simbad/sim-id?Ident=M%2027) (M 27) 
 
-## Seasonal
+## Re-shoot?
 Some targets that I've imaged but would like to re-shoot these in the future:
 
 ###### Spring
