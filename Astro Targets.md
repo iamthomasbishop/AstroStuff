@@ -19,11 +19,12 @@ I thought I was done with this target but I'm looping back to gather more data t
 ### Priority 2: [Sh2-86](https://telescopius.com/pictures/view/287204/deep_sky/ngc-6820/sh2-86-rgbhao3s2/by-insight-observatory)
 I've been shooting this recently, almost have enough data
 
-| Filter                             | Integration Target | Captured (usable) | Remaining | Notes                                 |
-| ---------------------------------- | ------------------ | ----------------- | --------- | ------------------------------------- |
-| Svbony SV220 3nm (dual-narrowband) | 15 hrs (900 min)   | 750 min           | 150 min   |                                       |
-| Optolong UV/IR-cut                 | 2 hrs (120 min)    | 50 min            | 70 min    | Have add'l data but stars are bloated |
-| Svbony SV240 (multi-narrowband)    | --                 | --                | --        |                                       |
+| Filter   | Integration Target | Captured (usable) | Remaining | Notes                                 |
+| -------- | ------------------ | ----------------- | --------- | ------------------------------------- |
+| Ha-OIII  | 15 hrs (900 min)   | 750 min           | 150 min   |                                       |
+| SII-OIII | ?                  | 0                 | ?         |                                       |
+| UV-IR    | 2 hrs (120 min)    | 50 min            | 70 min    | Have add'l data but stars are bloated |
+| Multi-NB | --                 | --                | --        |                                       |
 
 ### Priority 3: [M 33](https://telescopius.com/deep-sky-objects/m-33/triangulum-galaxy/spiral-galaxy/galaxy/x-ray-source)
 
