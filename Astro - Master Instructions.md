@@ -4,7 +4,7 @@ cssclasses:
   - full-width
 ---
 
-## Planning Criteria
+## Session Planning Criteria
 
 - Current targets: [Astro Targets.md](https://github.com/iamthomasbishop/AstroStuff/blob/main/Astro%20Targets.md) (include but don't necessarily limit to these)
 - Gear: see 'Gear' section
@@ -20,6 +20,16 @@ cssclasses:
 - Object size: minimum 1 arcmin (roughly the size of the Ring Nebula), maximum ~40 arcmin or around the size of Triangulum
 - Moon proximity: avoid the moon when it’s in play unless you have any strong contenders for narrowband imaging
 - Avoid the need for rotation, especially after ~11pm
+
+## Per-Target Project Planning Criteria
+
+Use when making a plan for a specific target, especially a from-scratch imaging plan. Make recommendations based on the following:
+
+- **Total integration time** based on my location, typical sky conditions, and camera capabilities 
+- **Which filters to use** and **integration time for each**
+- **Camera settings** (exposure time, gain, etc.)
+- **Rotation angle**
+
 
 ---
 
