@@ -6,7 +6,7 @@ I'm in the process of capturing data for these targets.
 ### Priority 1: [Sh2-101](https://telescopius.com/pictures/view/233902/deep_sky/min-1-95/sh2-101-tulip-nebula/by-vworlds)
 
 ###### Why now?
-I thought I was done with this target but I'm looping back to gather more data to bring out faint details and color, before it's too late and below my horizon early. It's prioritized before Sh2-101 because it is lower and transitions out sooner, needs a fair amount of data.
+I thought I was done with this target but I'm looping back to gather more data to bring out faint details and color, before it's too late and below my horizon early. It's prioritized before Sh2-86 because it is lower and transitions out sooner, needs a fair amount of data.
 
 | Filter                          | Integration Target | Captured (usable) | Remaining | Notes |
 | ------------------------------- | ------------------ | ----------------- | --------- | ----- |
