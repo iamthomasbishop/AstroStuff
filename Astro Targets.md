@@ -8,11 +8,12 @@ I'm in the process of capturing data for these targets.
 ###### Why now?
 I thought I was done with this target but I'm looping back to gather more data to bring out faint details and color, before it's too late and below my horizon early. It's prioritized before Sh2-101 because it is lower and transitions out sooner, needs a fair amount of data.
 
-| Filter                             | Integration Target | Captured (usable) | Remaining | Notes |
-| ---------------------------------- | ------------------ | ----------------- | --------- | ----- |
-| Svbony SV220 3nm (dual-narrowband) | 1080 min (18 hrs)  | 560 min (9.3 hrs) | 520 min   |       |
-| Optolong UV/IR-cut                 | 120 min            | None              | 120 min   |       |
-| Svbony SV240 (multi-narrowband)    | --                 | --                |           |       |
+| Filter                          | Integration Target | Captured (usable) | Remaining | Notes |
+| ------------------------------- | ------------------ | ----------------- | --------- | ----- |
+| Svbony SV220 3nm (Ha-OIII)      | 1080 min (18 hrs)  | 670 min           | 410 min   |       |
+| Svbony SV220 7nm (SII-OIII)     | 780 min            | 0                 | 780 min   |       |
+| Optolong UV/IR-cut              | 120 min            | 122 min           | 0         |       |
+| Svbony SV240 (multi-narrowband) | --                 | --                |           |       |
 
 
 ### Priority 2: [Sh2-86](https://telescopius.com/pictures/view/287204/deep_sky/ngc-6820/sh2-86-rgbhao3s2/by-insight-observatory)
