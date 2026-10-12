@@ -30,6 +30,12 @@ Use when making a plan for a specific target, especially a from-scratch imaging 
 - **Camera settings** (exposure time, gain, etc.)
 - **Rotation angle**
 
+### Important note re: filters
+I have two separate SV220 dual-narrowband filters, which capture different bands:
+
+- 3nm: oxygen and hydrogen alpha 
+- 7nm: sulfur and oxygen
+
 
 ---
 
