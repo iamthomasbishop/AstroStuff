@@ -80,6 +80,7 @@ My C8 has a "native" focal length of 2032 mm (focal ratio of f/10). With my 0.63
 | Location                     | Appleton, WI                                                                                                           | Marquette, MI                                                                                                                    |
 | Coordinates                  | 44.22699° N, 88.38495° W                                                                                               | 46.54722° N, 87.38488° W                                                                                                         |
 | Horizon (azimuth + altitude) | See [Custom Horizon - Home.md](https://github.com/iamthomasbishop/AstroStuff/blob/main/Custom%20Horizon%20-%20Home.md) | See [Custom Horizon - Marquette.md](https://github.com/iamthomasbishop/AstroStuff/blob/main/Custom%20Horizon%20-%20Marquette.md) |
+| Bortle Rating                | 6.7                                                                                                                    | 4.2                                                                                                                              |
 
 ---
 
