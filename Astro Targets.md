@@ -8,12 +8,12 @@ I'm in the process of capturing data for these targets.
 ###### Why now?
 I thought I was done with this target but I'm looping back to gather more data to bring out faint details and color, before it's too late and below my horizon early. It's prioritized before Sh2-86 because it is lower and transitions out sooner, needs a fair amount of data.
 
-| Filter                          | Integration Target | Captured (usable) | Remaining | Notes |
-| ------------------------------- | ------------------ | ----------------- | --------- | ----- |
-| Svbony SV220 3nm (Ha-OIII)      | 1080 min (18 hrs)  | 670 min           | 410 min   |       |
-| Svbony SV220 7nm (SII-OIII)     | 780 min            | 0                 | 780 min   |       |
-| Optolong UV/IR-cut              | 120 min            | 122 min           | 0         |       |
-| Svbony SV240 (multi-narrowband) | --                 | --                |           |       |
+| Filter   | Integration Target | Captured (usable) | Remaining | Notes |
+| -------- | ------------------ | ----------------- | --------- | ----- |
+| Ha-OIII  | 1080 min (18 hrs)  | 670 min           | 410 min   |       |
+| SII-OIII | 780 min            | 0                 | 780 min   |       |
+| UV- IR   | 120 min            | 122 min           | 0         |       |
+| Multi-NB | --                 | --                |           |       |
 
 
 ### Priority 2: [Sh2-86](https://telescopius.com/pictures/view/287204/deep_sky/ngc-6820/sh2-86-rgbhao3s2/by-insight-observatory)
@@ -28,11 +28,12 @@ I've been shooting this recently, almost have enough data
 
 ### Priority 3: [M 33](https://telescopius.com/deep-sky-objects/m-33/triangulum-galaxy/spiral-galaxy/galaxy/x-ray-source)
 
-| Filter           | Integration Target | Captured (usable) | Remaining | Notes |
-| ---------------- | ------------------ | ----------------- | --------- | ----- |
-| Dual-Narrowband  | 6 hrs (360 min)    | 180 min           | 180 min   |       |
-| Luminosity       | 12 hrs (720 min)   | 462 min           | 258 min   |       |
-| Multi-Narrowband | --                 | --                | --        |       |
+| Filter   | Integration Target | Captured (usable) | Remaining | Notes |
+| -------- | ------------------ | ----------------- | --------- | ----- |
+| Ha-OIII  | 6 hrs (360 min)    | 180 min           | 180 min   |       |
+| SII-OIII | ?                  | 0                 | ?         |       |
+| UV-IR    | 12 hrs (720 min)   | 722 min           | 0 min     |       |
+| Multi-NB | --                 | --                | --        |       |
 
 See also: [October 2026 astronomy imaging plan](https://claude.ai/artifact/VuGXDF3mkEor9b3xPGim6a) (Claude artifact)
 
