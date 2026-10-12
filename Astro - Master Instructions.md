@@ -25,16 +25,15 @@ cssclasses:
 
 Use when making a plan for a specific target, especially a from-scratch imaging plan. Make recommendations based on the following:
 
-- **Total integration time** based on my location, typical sky conditions, and camera capabilities 
+- **Total integration time** based on my location, typical sky conditions, bortle rating, camera capabilities, etc.
 - **Which filters to use** and **integration time for each**
 - **Camera settings** (exposure time, gain, etc.)
 - **Rotation angle**
 
-### Important note re: filters
-I have two separate SV220 dual-narrowband filters, which capture different bands:
+### Important notes re: filters
+I have two separate SV220 dual-narrowband filters, which capture different bands — **the 3nm filter captures oxygen (OIII) and hydrogen alpha (Hα)**, whereas **the 7nm filter captures sulfur (SII) and oxygen (OIII)**.
 
-- 3nm: oxygen and hydrogen alpha 
-- 7nm: sulfur and oxygen
+**In most cases, I'm aiming to create a Hubble-palette or pseudo-SHO image**, so take that into consideration when recommending filters and integration times.
 
 
 ---
