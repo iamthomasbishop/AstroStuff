@@ -26,7 +26,7 @@ cssclasses:
 ## Gear
 
 ### Current Kit Configurations
-I currently have 3 kit configurations: a primary for imaging DSOs (config A), a primary for visual observing (config C), and a secondary for planetary imaging (config B).
+I currently have 3 kit configurations: a primary for imaging DSOs (Config A), a primary for visual observing (Config C), and a secondary for planetary imaging (Config B).
 
 | **Component**      | **A - Primary Imaging (DSO)**                                                                                                                                | **B - Secondary Imaging (planetary)**                               | **C - Primary Visual**                                                      |
 | :----------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------ | :-------------------------------------------------------------------------- |
@@ -57,9 +57,7 @@ I currently have 3 kit configurations: a primary for imaging DSOs (config A), a 
 | Other gear         | Assortment of back-spacing accessories, adapters, other attachments                                                                                          |                                                                     |                                                                             |
 
 ### A note on focal length
-- My C8 has a "native" focal length of 2032 mm (focal ratio of f/10)
-- With my 0.63x reducer, the native focal length is ~1280 mm (focal ratio of f/6.3)
-- My "effective" focal length (for imaging) is ~1291 mm (as of 2026-09-22) (focal ratio of f/6.35)
+My C8 has a "native" focal length of 2032 mm (focal ratio of f/10). With my 0.63x reducer, the native focal length is ~1280 mm (focal ratio of f/6.3). My "effective" focal length (for imaging, number via plate solve) is ~1291 mm (as of 2026-09-22) which amounts to a focal ratio of f/6.35.
 
 
 ---
