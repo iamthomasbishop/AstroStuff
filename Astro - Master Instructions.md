@@ -74,4 +74,4 @@ My C8 has a "native" focal length of 2032 mm (focal ratio of f/10). With my 0.63
 ---
 
 ## On processing
-Acquisition happens on the associated controller, either via Dropbox or the internal file storage system (i.e. StellaVita) and later transferred to an external hard-drive.  Processing is typically done with Siril, Autostakkert, Pixelmator Pro, others.
+Acquisition happens on the associated controller. Files an either via Dropbox or the internal file storage system (i.e. StellaVita) and later transferred to an external hard-drive.  Processing is typically done with Siril, Autostakkert, Pixelmator Pro, others.
