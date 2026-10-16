@@ -1,41 +1,7 @@
 A quick list of previous, current, and future targets.
 
 ## Current Targets
-I'm in the process of capturing data for these targets.
-
-### Priority 1: [Sh2-101](https://telescopius.com/pictures/view/233902/deep_sky/min-1-95/sh2-101-tulip-nebula/by-vworlds)
-
-###### Why now?
-I thought I was done with this target but I'm looping back to gather more data to bring out faint details and color, before it's too late and below my horizon early. It's prioritized before Sh2-86 because it is lower and transitions out sooner, needs a fair amount of data.
-
-| Filter   | Integration Target | Captured (usable) | Remaining | Notes |
-| -------- | ------------------ | ----------------- | --------- | ----- |
-| Ha-OIII  | 1080 min (18 hrs)  | 670 min           | 410 min   |       |
-| SII-OIII | 780 min            | 0                 | 780 min   |       |
-| UV- IR   | 120 min            | 122 min           | 0         |       |
-| Multi-NB | --                 | --                |           |       |
-
-
-### Priority 2: [Sh2-86](https://telescopius.com/pictures/view/287204/deep_sky/ngc-6820/sh2-86-rgbhao3s2/by-insight-observatory)
-I've been shooting this recently, almost have enough data
-
-| Filter   | Integration Target | Captured (usable) | Remaining | Notes                                 |
-| -------- | ------------------ | ----------------- | --------- | ------------------------------------- |
-| Ha-OIII  | 15 hrs (900 min)   | 750 min           | 150 min   |                                       |
-| SII-OIII | ?                  | 0                 | ?         |                                       |
-| UV-IR    | 2 hrs (120 min)    | 50 min            | 70 min    | Have add'l data but stars are bloated |
-| Multi-NB | --                 | --                | --        |                                       |
-
-### Priority 3: [M 33](https://telescopius.com/deep-sky-objects/m-33/triangulum-galaxy/spiral-galaxy/galaxy/x-ray-source)
-
-| Filter   | Integration Target | Captured (usable) | Remaining | Notes |
-| -------- | ------------------ | ----------------- | --------- | ----- |
-| Ha-OIII  | 6 hrs (360 min)    | 180 min           | 180 min   |       |
-| SII-OIII | ?                  | 0                 | ?         |       |
-| UV-IR    | 12 hrs (720 min)   | 722 min           | 0 min     |       |
-| Multi-NB | --                 | --                | --        |       |
-
-See also: [October 2026 astronomy imaging plan](https://claude.ai/artifact/VuGXDF3mkEor9b3xPGim6a) (Claude artifact)
+See [Astro Targets](https://docs.google.com/spreadsheets/d/12P3IJaXhCIL51TodPO29d7DapRds4DTpQvleU6lDBD8/edit?usp=sharing) (Google Sheet).
 
 ## Recently Imaged
 Exclude from imaging plan unless requested.
