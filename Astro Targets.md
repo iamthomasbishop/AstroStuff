@@ -1,7 +1,7 @@
 A quick list of previous, current, and future targets.
 
 ## Current Targets
-See [Astro Targets](https://docs.google.com/spreadsheets/d/12P3IJaXhCIL51TodPO29d7DapRds4DTpQvleU6lDBD8/edit?usp=sharing) (Google Sheet).
+See 'active' targets in [Astro Targets](https://docs.google.com/spreadsheets/d/12P3IJaXhCIL51TodPO29d7DapRds4DTpQvleU6lDBD8/edit?usp=sharing) (Google Sheet).
 
 ## Recently Imaged
 Exclude from imaging plan unless requested.
