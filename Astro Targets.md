@@ -1,7 +1,7 @@
 A quick list of previous, current, and future targets.
 
 ## Current Targets
-See 'active' targets in [Astro Targets](https://docs.google.com/spreadsheets/d/12P3IJaXhCIL51TodPO29d7DapRds4DTpQvleU6lDBD8/edit?usp=sharing) (Google Sheet).
+See Current Targets in [Astro Targets](https://docs.google.com/spreadsheets/d/12P3IJaXhCIL51TodPO29d7DapRds4DTpQvleU6lDBD8/edit?usp=sharing) (Google Sheet).
 
 ## Recently Imaged
 Exclude from imaging plan unless requested.
@@ -36,13 +36,13 @@ Some targets that I've imaged but would like to re-shoot these in the future:
 ## Future
 Some targets that I haven't shot yet and would like to:
 
-- [Gamma Cygni Nebula](https://telescopius.com/deep-sky-objects/ic-1318/gamma-cygni-nebula/emission-nebula/h2-region?picture_id=247470)
+- [Gamma Cygni Nebula](https://telescopius.com/deep-sky-objects/ic-1318/gamma-cygni-nebula/emission-nebula/h2-region?picture_id=247470) (summer)
 - [Flaming Star Nebula](https://telescopius.com/deep-sky-objects/ic-405/flaming-star-nebula/emission-nebula/h2-region/radio-source?picture_id=247507)
 - [Tadpole Nebula](https://telescopius.com/deep-sky-objects/ic-410/tadpole-nebula/emission-nebula/open-cluster/star-cluster?picture_id=176721)
 - [Fly Nebula](https://telescopius.com/pictures/view/85960/deep_sky/ngc-1931/by-phitchco) (Sh2-237)
 - [Jellyfish Nebula](https://telescopius.com/deep-sky-objects/ic-443/jellyfish-nebula/supernova-remnant/variable-star/h2-region) (slightly too big, needs rotation precision)
 - [Fly Nebula](https://telescopius.com/deep-sky-objects/ngc-1931/fly-nebula/emission-nebula/open-cluster/h2-region?picture_id=80051)
-- [Spider Nebula](https://telescopius.com/deep-sky-objects/ngc-6537/red-spider-nebula/planetary-nebula/nebula/h2-region)
+- [Spider Nebula](https://telescopius.com/deep-sky-objects/ngc-6537/red-spider-nebula/planetary-nebula/nebula/h2-region) (below home horizon, also pretty small)
 - [NGC 2175](https://telescopius.com/deep-sky-objects/ngc-2175/emission-nebula/open-cluster/h2-region) (ORI)
 
 ## General Lists
