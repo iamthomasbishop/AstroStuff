@@ -7,7 +7,6 @@ See 'active' targets in [Astro Targets](https://docs.google.com/spreadsheets/d/1
 Exclude from imaging plan unless requested.
 
 - [NGC 7331](https://simbad.u-strasbg.fr/simbad/sim-id?Ident=NGC%207331) (Deer Lick Galaxy Group, SN 2026aaiv)
-- [Tulip Nebula](https://telescopius.com/pictures/view/233902/deep_sky/min-1-95/sh2-101-tulip-nebula/by-vworlds) (Sh2-101)
 - [Crescent Nebula](https://simbad.u-strasbg.fr/simbad/sim-id?Ident=Crescent%20Nebula) (NGC 6888)
 - [Dumbbell Nebula](https://simbad.u-strasbg.fr/simbad/sim-id?Ident=M%2027) (M 27) 
 
@@ -25,11 +24,11 @@ Some targets that I've imaged but would like to re-shoot these in the future:
 ###### Summer
 
 ###### Fall
-- [Andromeda Galaxy](https://telescopius.com/deep-sky-objects/m-31/andromeda-galaxy/spiral-galaxy/galaxy/quasar) (shot with old setup + 1 night w/ new, would like to re-shoot from scratch with better framing)
-- [Triangulum Galaxy](https://telescopius.com/deep-sky-objects/m-33/triangulum-galaxy/spiral-galaxy/galaxy/x-ray-source) (M 33) (re-shoot with better framing/rotation than recent capture)
+- [Andromeda Galaxy](https://telescopius.com/deep-sky-objects/m-31/andromeda-galaxy/spiral-galaxy/galaxy/quasar) (shot with old setup + 1 night w/ new, would like to re-shoot from scratch with better framing and possibly try mosaic in 2027)
+- [Triangulum Galaxy](https://telescopius.com/deep-sky-objects/m-33/triangulum-galaxy/spiral-galaxy/galaxy/x-ray-source) (M 33) (re-shoot in 2027 with better framing/rotation than recent capture)
 
 ###### Winter
-- [Crab Nebula](https://simbad.u-strasbg.fr/simbad/sim-id?Ident=Crab%20Nebula) (shot with old setup under moonlit skies, very poor results)
+- [Crab Nebula](https://simbad.u-strasbg.fr/simbad/sim-id?Ident=Crab%20Nebula) (currently re-shooting this as of 2026-10-18)
 - [Flame Nebula](https://telescopius.com/deep-sky-objects/ngc-2024/flame-nebula/emission-nebula/star-cluster)
 - [Horsehead Nebula](https://simbad.u-strasbg.fr/simbad/sim-id?Ident=Horsehead%20Nebula)
 - [M 42](https://simbad.u-strasbg.fr/simbad/sim-id?Ident=M%2042) (Orion Nebula)
