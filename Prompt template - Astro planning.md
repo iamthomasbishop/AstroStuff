@@ -5,7 +5,7 @@
 > 
 > - Instructions: https://github.com/iamthomasbishop/AstroStuff/blob/main/Astro%20-%20Master%20Instructions.md
 > - Date range: just today
-> - Time: nautical sunset until astronomical sunrise
+> - Time: astronomical sunset until astronomical sunrise
 > - Location: home
 > - Current targets: [Astro Targets.md](https://docs.google.com/spreadsheets/d/12P3IJaXhCIL51TodPO29d7DapRds4DTpQvleU6lDBD8) (include but don't necessarily limit to these)
 > - Preferences for this session: 
